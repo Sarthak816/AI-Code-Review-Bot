@@ -1,4 +1,4 @@
-# CodeReview BOT
+# AI-Code-Review-Bot
 
 > A code review bot powered by ChatGPT
 
